@@ -9,7 +9,7 @@ import {
   HarmBlockThreshold,
 } from "@google/generative-ai";
 
-const MODEL_NAME = "gemini-2.5-pro";
+const MODEL_NAME = "gemini-2.5-flash";
 const API_KEY = "AIzaSyCSQTJ4PouFJ7Fxatuz5xYtj4x0DzhoCwc";
 
 async function runChat(prompt) {
